@@ -20,3 +20,6 @@ Our work as a data analyst is to build a Tableau dashboard of IPL statistics ove
 3. Team Statistics
 - Season-wise team performance (wins vs losses)
 - Win %age ( home vs away)
+
+
+[Link to My Tableau Public Profile](https://public.tableau.com/profile/abhishek.hegde#!)
